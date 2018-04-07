@@ -1,4 +1,6 @@
-package com.sap.bowlingapp;
+package com.bharath.bowlingapp;
+
+import com.sap.bowlingapp.Player;
 
 public class ScoreBoard
 {

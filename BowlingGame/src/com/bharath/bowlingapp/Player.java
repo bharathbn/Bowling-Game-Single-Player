@@ -1,4 +1,4 @@
-package com.sap.bowlingapp;
+package com.bharath.bowlingapp;
 
 import java.io.IOException;
 import java.util.ArrayList;

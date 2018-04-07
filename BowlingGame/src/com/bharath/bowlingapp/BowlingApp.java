@@ -1,6 +1,10 @@
-package com.sap.bowlingapp;
+package com.bharath.bowlingapp;
 
 import java.io.*;
+
+import com.sap.bowlingapp.BowlingSystem;
+import com.sap.bowlingapp.Player;
+import com.sap.bowlingapp.ScoreBoard;
 
 public class BowlingApp
 {

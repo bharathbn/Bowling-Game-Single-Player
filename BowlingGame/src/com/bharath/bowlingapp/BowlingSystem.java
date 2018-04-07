@@ -1,9 +1,11 @@
-package com.sap.bowlingapp;
+package com.bharath.bowlingapp;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Random;
+
+import com.sap.bowlingapp.Player;
 
 public class BowlingSystem
 {
